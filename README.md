@@ -1,7 +1,12 @@
 ## Hi there 👋
 
-<!--
-**luananevestech/luananevestech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/luananevestech/luananevestech//blob/master/assets/libby-creates-alucard.gif">
+</div>
+
+</br>
+</br>
+</br>
 
 Here are some ideas to get you started:
 
