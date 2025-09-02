@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/luananevestech/luananevestech//blob/master/assets/libby-creates-alucard.gif">
+![libby-creates-alucard](https://github.com/user-attachments/assets/3920ae22-35c7-48fb-8eb7-1cf05ba36d5f)
+
 </div>
 
 </br>
