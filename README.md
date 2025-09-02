@@ -1,22 +1,27 @@
-## Hi there 👋
+## Hello World 👋 
+<p align="center"> <img src="https://media1.tenor.com/m/FyF2aQY4nVcAAAAC/libby-creates-alucard.gif" width="500">
 
-<div align="center">
-![libby-creates-alucard](https://github.com/user-attachments/assets/3920ae22-35c7-48fb-8eb7-1cf05ba36d5f)
+## Sobre Mim ☆: 
 
-</div>
+### - Me chamo Luana e sou estudante de Ánalise e desenvolvimento de Sistemas pela Cruzeiro do Sul!
+
+### - Tenho noções de:
+- ☆ HTML
+- ☆ CSS
+- ☆ JavaScript
+
+### - Interesses : 
+- ☆ Desenvolvimento Web
+- ☆ Inteligência Artificial
+- ☆ Cibersegurança
+- ☆ Hacking Ético
+
+
+<p align="center">  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+  <a href="https://github.com/luananevestech"><img src="https://github-readme-stats.vercel.app/api?username=luananevestech&hide_border=true&show_icons=true" alt="luananevestech's github stats"></a>
+</p>  
 
 </br>
 </br>
 </br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
