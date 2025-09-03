@@ -3,7 +3,7 @@
 
 ## Sobre Mim ☆: 
 
-### - Me chamo Luana e sou estudante de Ánalise e desenvolvimento de Sistemas pela Cruzeiro do Sul!
+### - Me chamo Luana e sou estudante de Análise e Desenvolvimento de Sistemas pela Cruzeiro do Sul!
 
 ### - Tenho noções de:
 - ☆ HTML
